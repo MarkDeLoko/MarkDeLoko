@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MarkDeLoko
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning React
